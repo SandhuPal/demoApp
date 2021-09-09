@@ -1,7 +1,7 @@
 # demoApp
 Test demo purpose 
 
-DOWNLOAD ZIP file ande extract it and run:
+DOWNLOAD demo-app.zip or demo-app.rar file ande extract it and run:
 npm install
 after that 
 npm run start
